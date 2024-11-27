@@ -2,7 +2,7 @@
 
 This project aims to analyze sales data during the Diwali festival and provide insights into improving sales and customer experience. The tasks include data cleaning, Exploratory Data Analysis (EDA), and customer behavior analysis.
 
-### Technologies Used:
+### Tools and Libraries:
 - Pandas (for data manipulation)
 - Matplotlib (for visualizations)
 - Seaborn (for statistical visualizations)
